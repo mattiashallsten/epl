@@ -1,4 +1,3 @@
 #+title: EPL
-* EPL
 Repository containing the SuperCollider classes =EPL= and
 =EPL_Sequncer=, used in the realisation of the piece [[https://mattiashallsten.com/works/epl/][EPL]].
